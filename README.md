@@ -2,7 +2,7 @@
 
 Steam Launcher is a utility designed to solve common issues that affect Steam on Linux.
 
-![alt tag] (https://github.com/drakofrost/steam-launcher/raw/master/screenshot.png)
+![alt tag] (https://github.com/drakofrost/steam-launcher/raw/master/screenshot.png)  #this is the original author- props to them!  I forked it from digideskio however, so props to them for forking it too!  I am doing this so it doesn't get lost again because Microsoft bought out github!
 
 Steam ships a set of libraries called the "Steam Runtime", which is a runtime environment for Steam applications, however, those libraries are usually outdated, and may cause conflicts with the system libraries. This affects users that rely on open source graphics drivers, causing all sorts of errors when trying to launch Steam, or play games.
 
